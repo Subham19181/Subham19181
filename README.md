@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subham</h1>
 
-<h1 align="center">Hi 👋, I'm Subham</h1>
-
 <div align="center">
   <p style="max-width: 800px; text-align: left;">
     Hi, I’m a Class 12 student passionate about turning ideas into impactful tech solutions — especially in the field of Artificial Intelligence and Machine Learning. I specialize in Python, data science, and web development (HTML, CSS, JavaScript, React), and I’m currently deepening my skills in AI/ML, working on projects that blend logic, creativity, and real-world applications. I’ve earned recognition for my leadership and collaboration skills — including a 🥈 silver medal at the Jadavpur University's flagship national Hackathon Hack&lt;n&gt;Pitch and a 🥇 gold medal at IEM's science exhibition "INNOVACION". While I’ve had success in robotics competitions, my true interest lies in building intelligent systems that can learn, adapt, and make a difference. I'm eager to connect with like-minded individuals, mentors, and teams working in AI, machine learning, and innovative tech. 💬 Let’s connect if you’re looking to collaborate, exchange ideas, or share opportunities in AI/ML, internships, or open-source projects!
