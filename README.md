@@ -18,8 +18,10 @@ I blend creativity 🎨 with logic 💡 to design intelligent, adaptive systems.
 
 ### 🧠 About Me  
 
-🚀 **Silver Medalist** @ Jadavpur University's *Hack\<n\>Pitch* Hackathon 
-🏆 **Gold Medalist** @ IEM's *INNOVACION* Science Exhibition  
+🏆 **Silver Medalist** @ Jadavpur University's *Hack\<n\>Pitch* Hackathon 
+🏆 **Gold Medalist** @ IEM's *INNOVACION* Science Exhibition 
+🏆 **Top 10** @ IIT Kharagpur Kshitij *B Plan*
+🏆 **Top 10** @ CCU STRTUP FESTIVAL
 🤖 Robotics → AI/ML Transitioner  
 🌱 Learning **Pandas, Matplotlib, scikit-learn**, and **DevOps**  
 💬 Let’s talk about **AI, automation, open-source, and startups**  
@@ -49,9 +51,11 @@ I blend creativity 🎨 with logic 💡 to design intelligent, adaptive systems.
 
 | 🥇 Event | 🏛️ Host | 🎖️ Outcome |
 |-----------|----------|-------------|
+| B Plan | IIT Kharagpur | Top 10 |
+| Startup Festival | CCU FEST | Top 10 |
 | Hack\<n\>Pitch | Jadavpur University | 🥈 Silver Medal |
 | INNOVACION | Institute of Engineering & Management | 🥇 Gold Medal |
-| Robotics League | State Level | Finalist |
+| Robotics Club | Aditya Academy | Founding Team |
 
 ---
 
